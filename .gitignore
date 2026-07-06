@@ -1,0 +1,22 @@
+# Environment variables and API keys
+.env
+
+# Local database
+candidates.db
+
+# Uploaded resumes
+uploads/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
