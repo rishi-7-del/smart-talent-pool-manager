@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+python-dotenv
+langchain-google-genai
+qdrant-client
+Werkzeug
